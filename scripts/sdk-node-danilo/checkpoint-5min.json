@@ -1,0 +1,22 @@
+{
+  "savedAt": "2026-09-01T14:31:02.019Z",
+  "label": "5min",
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "quais ingressos vc tem disponivel"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Temos dois ingressos para a Imersão AWS & IA:\n\n**Normal - R$ 47**\nAcesso ao vivo + gravação por 48h\n\n**VIP - R$ 97**\nAcesso ao vivo + aula extra na terça + gravação por 7 dias + desafio extra\n\nQual deles te interessa?"
+        }
+      ]
+    }
+  ]
+}

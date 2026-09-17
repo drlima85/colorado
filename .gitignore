@@ -1,7 +1,13 @@
-scripts/sdk-node-exemplo/node_modules/*
-scripts/sdk-node/node_modules/*
-scripts/sdk-node-exemplo/*
+node_modules/
+**/node_modules/
 package-lock.json
+
+# variaveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+scripts/sdk-node-exemplo/*
 apoio/*
 .DS_Store
 docs-rag-curado/
